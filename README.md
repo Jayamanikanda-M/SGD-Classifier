@@ -7,10 +7,32 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import Required Libraries
+
+2. Load and View the Dataset
+
+3. Drop Unnecessary Columns
+
+4. Convert Categorical Columns to category Type
+
+5. Convert Categories to Numeric Codes
+
+6. Separate Features (X) and Target (y)
+
+7. Initialize Model Parameters (Weights)
+
+8. Define the Sigmoid Function
+
+9. Define the Loss (Cost) Function
+
+10. Implement Gradient Descent
+
+11. Define Prediction Function
+
+12. Make Predictions and Compute Accuracy
+
+13. Predict for New Students
+
 
 ## Program:
 ```
